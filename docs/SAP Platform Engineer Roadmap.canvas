@@ -11,6 +11,7 @@
 		{"id":"063c2fc8a00b0a9a","type":"group","x":666,"y":1215,"width":400,"height":400,"label":"Transport Management"},
 		{"id":"745668f083e72f56","type":"group","x":-1082,"y":-706,"width":322,"height":400,"label":"Patching"},
 		{"id":"d72d1b6905b165fd","type":"group","x":-95,"y":-1109,"width":400,"height":307,"label":"System Setup"},
+		{"id":"4479cd23359a249c","type":"group","x":1035,"y":94,"width":400,"height":307,"label":"System Setup"},
 		{"id":"7d8e42cc8b537f68","type":"group","x":-560,"y":-906,"width":296,"height":386,"label":"System Operation Modes"},
 		{"id":"dbbdd64223ded57f","type":"group","x":-840,"y":1181,"width":304,"height":333,"label":"Databases"},
 		{"id":"e524441b8c92ec29","type":"text","text":"Enqueue Service","x":-460,"y":40,"width":250,"height":60},
@@ -95,7 +96,8 @@
 		{"id":"1062d23202524d6a","type":"text","text":"Cloud Foundry","x":704,"y":162,"width":250,"height":51},
 		{"id":"b0118acc07ed6f24","type":"text","text":"Spaces","x":749,"y":213,"width":250,"height":60},
 		{"id":"3ab3ac42b5d0d3c9","type":"text","text":"Subscriptions","x":749,"y":327,"width":250,"height":60},
-		{"id":"08eea1f08aeb3949","type":"text","text":"Entitlements","x":749,"y":411,"width":250,"height":60}
+		{"id":"08eea1f08aeb3949","type":"text","text":"Entitlements","x":749,"y":411,"width":250,"height":60},
+		{"id":"d74336ae84f0f1a8","type":"text","text":"Monitoring:\nInternes (CALM)\nExternes (Q-Byond, SAP)\n","x":741,"y":-1179,"width":250,"height":240}
 	],
 	"edges":[
 		{"id":"a1593c746dc75c3c","fromNode":"0a98fa0d0cd06bc5","fromSide":"right","toNode":"e524441b8c92ec29","toSide":"left"},
@@ -108,7 +110,7 @@
 		{"id":"4a4ed8ccf9ad6dc7","fromNode":"4dc09f2ca3b8a6f2","fromSide":"left","toNode":"d5a3e12950af9bf1","toSide":"top"},
 		{"id":"7d4eb07c0f2a24e8","fromNode":"13420c789022c06f","fromSide":"right","toNode":"063c2fc8a00b0a9a","toSide":"left"},
 		{"id":"347a068efacc3310","fromNode":"cf8930efee26b5a1","fromSide":"right","toNode":"40960211655ec7b2","toSide":"left"},
-		{"id":"e0b960085d0c78df","fromNode":"13c10398ce205eb4","fromSide":"right","toNode":"727bf6b447d23b8f","toSide":"left"},
-		{"id":"22e54f8d48d98877","fromNode":"dbbdd64223ded57f","fromSide":"right","toNode":"48abb531218d075f","toSide":"left","fromEnd":"arrow"}
+		{"id":"22e54f8d48d98877","fromNode":"dbbdd64223ded57f","fromSide":"right","toNode":"48abb531218d075f","toSide":"left","fromEnd":"arrow"},
+		{"id":"e0b960085d0c78df","fromNode":"13c10398ce205eb4","fromSide":"right","toNode":"727bf6b447d23b8f","toSide":"left"}
 	]
 }
