@@ -36,10 +36,6 @@
 		{"id":"18fc87c20cfa166d","type":"text","text":"Roles","x":-1221,"y":-669,"width":250,"height":60},
 		{"id":"a0c7582d0f59a2cf","type":"text","text":"Platform User","x":-1221,"y":-577,"width":250,"height":60},
 		{"id":"bbeba591c1947682","type":"text","text":"Application User","x":-1221,"y":-502,"width":250,"height":60},
-		{"id":"13c10398ce205eb4","type":"text","text":"CALM","x":368,"y":-1140,"width":250,"height":60},
-		{"id":"d74336ae84f0f1a8","type":"text","text":"Monitoring:\nInternes (CALM, Solution Manager)\nExternes (Q-Byond, SAP)\n","x":493,"y":-961,"width":250,"height":129},
-		{"id":"b5f6f16297c7817e","type":"text","text":"SOAMANAGER","x":963,"y":-977,"width":250,"height":50},
-		{"id":"21021d42b577a224","type":"text","text":"WebDispatcher","x":963,"y":-1097,"width":250,"height":60},
 		{"id":"f3e5f511f38958a8","type":"text","text":"Trust","x":-1618,"y":-800,"width":177,"height":60},
 		{"id":"b300f0fc1c32d1a8","type":"text","text":"Destinations","x":-1618,"y":-719,"width":177,"height":60},
 		{"id":"1062d23202524d6a","type":"text","text":"Cloud Foundry","x":-1823,"y":-639,"width":177,"height":51},
@@ -138,7 +134,11 @@
 		{"id":"1803b9fbca285719","type":"text","text":"Public Cloud / Growth / SaaS","x":-780,"y":-923,"width":250,"height":60},
 		{"id":"4619d35ba16b6f1b","type":"text","text":"HyperScaler","x":-780,"y":-1084,"width":250,"height":60},
 		{"id":"727bf6b447d23b8f","type":"text","text":"SAP Services\n- Early Watch Alerts\n- Service Requests\n- Incidents\n\t- Remote Access\n- S-User Management\n","x":-3573,"y":-1013,"width":250,"height":240},
-		{"id":"4dc09f2ca3b8a6f2","type":"text","text":"System Connection\nSAP router","x":-3969,"y":-923,"width":250,"height":60}
+		{"id":"4dc09f2ca3b8a6f2","type":"text","text":"System Connection\nSAP router","x":-3969,"y":-923,"width":250,"height":60},
+		{"id":"13c10398ce205eb4","type":"text","text":"CALM","x":-4164,"y":-741,"width":250,"height":60},
+		{"id":"d74336ae84f0f1a8","type":"text","text":"Monitoring:\nInternes (CALM, Solution Manager)\nExternes (Q-Byond, SAP)\n","x":-4039,"y":-562,"width":250,"height":129},
+		{"id":"21021d42b577a224","type":"text","text":"WebDispatcher","x":-3569,"y":-698,"width":250,"height":60},
+		{"id":"b5f6f16297c7817e","type":"text","text":"SOAMANAGER","x":-3569,"y":-578,"width":250,"height":50}
 	],
 	"edges":[
 		{"id":"71de91a2d2fc8ba4","fromNode":"79e1d060a49f14e9","fromSide":"top","toNode":"0a98fa0d0cd06bc5","toSide":"bottom"},
