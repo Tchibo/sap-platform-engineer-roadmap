@@ -82,11 +82,11 @@
 		{"id":"302a415d06c667b2","type":"text","text":"System copy","x":-340,"y":-1780,"width":152,"height":50},
 		{"id":"6866289366acedc1","type":"text","text":"Certificates","x":-299,"y":-555,"width":128,"height":50},
 		{"id":"533d8d2c2ca0baaf","type":"text","text":"SSO","x":-295,"y":-495,"width":125,"height":50},
-		{"id":"99422494b64a0c46","type":"text","text":"Identity and access manager","x":-611,"y":-491,"width":250,"height":60},
 		{"id":"efc09f5ec4430835","type":"text","text":"Security Monitoring","x":-604,"y":-404,"width":250,"height":60},
 		{"id":"593c6e381e73d224","type":"text","text":"Audit Logs","x":-611,"y":-561,"width":250,"height":61},
 		{"id":"b900a861731ec9a2","type":"text","text":"Authorization","x":-604,"y":-655,"width":250,"height":60},
-		{"id":"cf7686f00305dbb3","type":"text","text":"Fiori Launchpad\n","x":-3326,"y":-2120,"width":165,"height":77}
+		{"id":"cf7686f00305dbb3","type":"text","text":"Fiori Launchpad\n","x":-3326,"y":-2120,"width":165,"height":77},
+		{"id":"99422494b64a0c46","type":"text","text":"Identity and access management","x":-611,"y":-475,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"b2e21b02ce8f3f5a","fromNode":"a6cb04589f26ebdf","fromSide":"right","toNode":"4e1bea3e7b273072","toSide":"left"},
